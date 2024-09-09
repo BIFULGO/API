@@ -1,0 +1,13 @@
+a{
+    font-size: 40px;
+    color: aliceblue;
+    padding: 80px;
+}
+body{
+    background-image: url(Img/download.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    color: aliceblue;
+}

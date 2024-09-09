@@ -1,0 +1,39 @@
+fieldset{
+    width: 300px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 80px;
+    color: aliceblue;
+}
+.cidade{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+body{
+    background-image: url(Img/4b1c3a37-3f13-4e35-9445-ed87d4d8d96f.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.F{
+    width: 400px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(136, 136, 136, 0.658);
+}
+fieldset{
+    background-color: aliceblue;
+}
+input{
+    font-size: 30px;
+}
+#Clima{
+font-size: 20px;
+}
+button{
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+}
